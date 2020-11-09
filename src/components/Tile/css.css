@@ -1,0 +1,15 @@
+.Tile {
+  width: 103px;
+  height: 103px;
+  line-height: 103px;
+  border: 1px solid rgb(232, 241, 255);
+  cursor: pointer;
+}
+
+.Tile-clickable {
+  color: white;
+}
+
+.Tile-clickable:hover {
+  background-color: rgb(232, 241, 255);
+}
